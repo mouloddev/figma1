@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/mouloddev/figma2.git/static/css/main.aace832b.css",
+    "main.js": "/mouloddev/figma2.git/static/js/main.80dc11e9.js",
+    "static/media/image3.svg": "/mouloddev/figma2.git/static/media/image3.a75d33e74ffa633d4e338887075e617a.svg",
+    "static/media/background.png": "/mouloddev/figma2.git/static/media/background.c613fb336c1379287b35.png",
+    "static/media/hero-background.svg": "/mouloddev/figma2.git/static/media/hero-background.e7d0c39b47da3962a0093c084436f82d.svg",
+    "static/media/image2.svg": "/mouloddev/figma2.git/static/media/image2.4c677ce9a0b5c0f3fb3cba81aedbf87f.svg",
+    "static/media/image1.svg": "/mouloddev/figma2.git/static/media/image1.0148d37aef2fa25edc01b572cb6253a6.svg",
+    "static/media/WhoWeAre.jpg": "/mouloddev/figma2.git/static/media/WhoWeAre.4f75a59d060764c7ccf0.jpg",
+    "static/media/female2.png": "/mouloddev/figma2.git/static/media/female2.1f16a8241c12e14105ad.png",
+    "static/media/female1.png": "/mouloddev/figma2.git/static/media/female1.86fd07fef3a9bc5d7057.png",
+    "static/media/male1.png": "/mouloddev/figma2.git/static/media/male1.3e9dbb67cb787d8d2098.png",
+    "static/media/business_finance.svg": "/mouloddev/figma2.git/static/media/business_finance.739a1f88a27034d401c6862224e01723.svg",
+    "static/media/light-instagram.svg": "/mouloddev/figma2.git/static/media/light-instagram.89a0c6aae91017da7f6e6201170d1878.svg",
+    "static/media/dark-instagram.svg": "/mouloddev/figma2.git/static/media/dark-instagram.5bd8e077e2c573cdd4569aea740a66bf.svg",
+    "static/media/travel.svg": "/mouloddev/figma2.git/static/media/travel.7610578ddbec58ae006b8591f92a08d2.svg",
+    "static/media/star-unfilled.svg": "/mouloddev/figma2.git/static/media/star-unfilled.7692d7921acc6ee5d717381f4d0b264e.svg",
+    "static/media/header-cart.svg": "/mouloddev/figma2.git/static/media/header-cart.3c91580368f67ae3718b62568bb4869e.svg",
+    "static/media/header-search.svg": "/mouloddev/figma2.git/static/media/header-search.58d5717ace2e1abe2ce1ad676dac559a.svg",
+    "static/media/light-twitter.svg": "/mouloddev/figma2.git/static/media/light-twitter.8cfeb340a8ec662cbb6f9633604ce6b5.svg",
+    "static/media/star-filled.svg": "/mouloddev/figma2.git/static/media/star-filled.644317604fca504ebed7f76a056e1020.svg",
+    "static/media/dark-youtube.svg": "/mouloddev/figma2.git/static/media/dark-youtube.6a48730811dbc58ef4bd53e379f7d24a.svg",
+    "static/media/light-youtube.svg": "/mouloddev/figma2.git/static/media/light-youtube.881e5a4b602216d676381a843f89f7df.svg",
+    "static/media/dark-twitter.svg": "/mouloddev/figma2.git/static/media/dark-twitter.f3b46e8351e748e9f527e03f81372dd1.svg",
+    "static/media/financial.svg": "/mouloddev/figma2.git/static/media/financial.91ca3ecfbe51cdc94939f08a013086dc.svg",
+    "index.html": "/mouloddev/figma2.git/index.html",
+    "static/media/light-facebook.svg": "/mouloddev/figma2.git/static/media/light-facebook.3809386d81a5884d638ac122a61bc3d5.svg",
+    "static/media/dark-facebook.svg": "/mouloddev/figma2.git/static/media/dark-facebook.6cb42caea15db34e8540b9961619dd64.svg",
+    "static/media/navbar-toggler-icon.svg": "/mouloddev/figma2.git/static/media/navbar-toggler-icon.ee737bc5ac3e8a483684af61694ee3dc.svg",
+    "main.aace832b.css.map": "/mouloddev/figma2.git/static/css/main.aace832b.css.map",
+    "main.80dc11e9.js.map": "/mouloddev/figma2.git/static/js/main.80dc11e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aace832b.css",
+    "static/js/main.80dc11e9.js"
+  ]
+}
